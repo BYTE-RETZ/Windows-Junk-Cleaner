@@ -4,3 +4,5 @@
 
 ## USAGE 
 Choose whatever folder you want to cleanup, or easiest is you can clear them all **(WILL NOT HARM THE PC)**
+
+## NO PREREQUISITES NEEDED
